@@ -1,0 +1,5 @@
+
+cryptography
+streamlit
+os
+io
