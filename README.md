@@ -1,4 +1,4 @@
-# File Encryption Decrytion Softer
+# File Encryption Decryption Software
 
 
 This project is based on the implementation of cryptography concept using python cryptography and streamlit library.
